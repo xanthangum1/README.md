@@ -13,16 +13,10 @@
 
 
 ### Connect with me:
-[<img align=”left” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align=”left” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+<img align=”left” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
+<img align=”left” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />[facebook]
 [website]: https://whatitalkaboutwhenitalkaboutcoding292272810.wordpress.com/
 [facebook]: https://www.facebook.com/TheAdrianKim/
 
-[<img align=”left” alt=”devopsbyte.com” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align=”left” alt=”jjames- | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align=”left” alt=”jobin_james_ride | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[website]: https://devopsbyte.com
-[instagram]: https://instagram.com/jobin_james_ride
-[linkedin]: https://linkedin.com/in/jjames-
-  
+
 [![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=adriankim18)](https://github.com/anuraghazra/github-readme-stats)
