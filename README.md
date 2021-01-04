@@ -13,8 +13,8 @@
 
 
 ### Connect with me:
-[<img align=”left” alt=”https://whatitalkaboutwhenitalkaboutcoding292272810.wordpress.com/” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align=”left” alt=”https://www.facebook.com/TheAdrianKim/” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align=”left” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align=”left” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [website]: https://whatitalkaboutwhenitalkaboutcoding292272810.wordpress.com/
 [facebook]: https://www.facebook.com/TheAdrianKim/
   
