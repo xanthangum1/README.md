@@ -3,7 +3,7 @@
 - 🔭 I’m a backend developer who specializes in Python
 - 👯 So far I've worked on team projects with Django and Flask
 - 🌱 Currently, I'm working on a personal project with Flask and Python
-- 🥅 2021 Goals: Study and contribute in a AI based project
+- 🥅 2021 Goals: Study and contribute to a AI based project
 - ⚡ Fun fact: I have a Culinary Arts Degree
 
 ### 안녕하세요, 요리하는 Backend 개발자 김창곤 입니다!👋
