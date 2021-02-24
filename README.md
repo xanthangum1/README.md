@@ -1,7 +1,7 @@
 ### Hello World, I’m Adrian 👋
 ## I’m a Cook, Hooper, and Backend Developer!
 - 🔭 I’m a backend developer who specializes in Python
-- 👯 So far I've worked on team projects with Django and Flask
+- 👯 So far I've worked on projects with Django, Flask, and fastapi
 - 🌱 Currently, I'm working on a personal project with Flask and Python
 - 🥅 2021 Goals: Study and contribute to a AI based project
 - ⚡ Fun fact: I have a Culinary Arts Degree
