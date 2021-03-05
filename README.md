@@ -11,4 +11,4 @@
 - 🌱 Flask와 Python을 사용하여 개인 프로젝트를 진행하고있습니다
 - ⚡ 저의 첫사랑이자 첫 열정이었던 요리에 쏟았던 열정과 같은 마음으로 개발에 임하고 있습니다
 
-[!Adrian's github stats(https://github-readme-stats.vercel.app/api?username=adriankim18&count_private=true)]
+[![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=adriankim18&count_private=true)]
