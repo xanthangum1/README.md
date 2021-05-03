@@ -12,4 +12,4 @@
 - 🎒 Flask와 Python을 사용하여 개인 프로젝트를 진행하고있습니다
 - 🌲 저의 첫사랑이자 첫 열정이었던 요리에 쏟았던 열정과 같은 마음으로 개발에 임하고 있습니다
 
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriankim18&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xanthangum1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
